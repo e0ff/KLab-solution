@@ -6,3 +6,4 @@
 
 ## Задание 2, веб-приложение
 смотри в папке simple_rest_app
+использовал poetry, fastapi, pytest
